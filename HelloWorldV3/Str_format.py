@@ -11,3 +11,8 @@ print('a' , end='')
 print('b' , end=' ')
 print('c')
 print('d',end='')
+print('This is the first line\nThis is the second line')
+print("This is the first sentence. \
+This is the second sentence.")
+print('What\'s your name?')
+print(r"Newlines are indicated by \n")
