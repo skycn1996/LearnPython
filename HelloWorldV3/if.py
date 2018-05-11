@@ -17,3 +17,6 @@ else:
 print('Done')
 # 这最后一句语句将在
 # if 语句执行完毕后执行。
+
+if True:
+    print("Yes, It is True")
